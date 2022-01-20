@@ -1,4 +1,6 @@
-### Hi I am Jay Simaria . Welcome To My Github Profile . I Am A Bachelor Of Computer Application Student 
+### Hi I am Jay Simaria .
+    Welcome To My Profile .
+    I am a Bachelor Of Computer Application .
 
 <!--
 **JaySimaria/JaySimaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
