@@ -1,18 +1,13 @@
 ### Hi I am Jay Simaria .
     Welcome To My Profile .
     I am a Bachelor Of Computer Application .
-
-<!--
-**JaySimaria/JaySimaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...In Python Programming Languagesw
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...My Email-Id is jaysimaria1808@gmail.com.
+-                        MY Linked-in Id Is Jay Simaria
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
